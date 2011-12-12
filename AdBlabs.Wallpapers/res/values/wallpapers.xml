@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright (C) 2009 Google Inc.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ -->
+
+<resources>
+    <string-array name="wallpapers" translatable="false">
+        <item>wallpaper_adblabs_fire</item>
+        <item>wallpaper_adblabs_fireblue</item>
+        <item>wallpaper_adblabs_indigo</item>
+		<item>wallpaper_adblabs_pinky</item>
+		<item>wallpaper_adblabs_purplesplat</item>
+		<item>wallpaper_adblabs_redcell</item>
+		<item>wallpaper_adblabs_river</item>
+		<item>wallpaper_abstracto</item>
+		<item>wallpaper_abstracto2</item>
+		<item>wallpaper_android</item>
+		<item>wallpaper_carmen_electra</item>
+		<item>wallpaper_carmen_electra2</item>
+		<item>wallpaper_dailymobile</item>
+		<item>wallpaper_disruption</item>
+		<item>wallpaper_dots</item>
+		<item>wallpaper_headphones</item>
+		<item>wallpaper_homer</item>
+		<item>wallpaper_htc</item>
+		<item>wallpaper_htc2</item>
+		<item>wallpaper_ice_age</item>
+		<item>wallpaper_joker</item>
+		<item>wallpaper_quake</item>
+		<item>wallpaper_space1</item>
+		<item>wallpaper_space2</item>
+		<item>wallpaper_space3</item>
+		<item>wallpaper_space4</item>			
+    </string-array>
+
+    <string-array name="info" translatable="false">
+        <item>Fire</item>
+        <item>Fire Blues</item>
+        <item>Indigo</item>
+        <item>Pinky</item>
+        <item>Purple Splat</item>
+        <item>Red Cell</item>
+        <item>River</item>
+        <item>Abstracto</item>
+		<item>Abstracto 2</item>
+		<item>Android</item>
+		<item>Carmen Electra</item>
+		<item>Carmen Electra 2</item>
+		<item>Dailymobile</item>
+		<item>Disruption</item>
+		<item>Dots</item>
+		<item>Headphones</item>
+		<item>Homer</item>
+		<item>HTC</item>
+		<item>HTC 2</item>
+		<item>Ice Age</item>
+		<item>Joker</item>
+		<item>Quake</item>
+		<item>Space 1</item>
+		<item>Space 2</item>
+		<item>Space 3</item>
+		<item>Space 4</item>
+    </string-array>
+</resources>

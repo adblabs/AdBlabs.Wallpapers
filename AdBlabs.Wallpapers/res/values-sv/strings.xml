@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Adblabs-bakgrunder</string>
+    <string name="app_label">Adblabs-bakgrunder</string>
+    <string name="set_wallpaper">Ange bakgrundsbild</string>
+    <string name="no_wallpaper">Ingen bakgrundsbild</string>
+</resources>
