@@ -51,6 +51,14 @@
 		<item>wallpaper_14</item>
 		<item>wallpaper_15</item>
 		<item>wallpaper_16</item>
+		<item>wallpaper_17</item>
+        <item>wallpaper_18</item>
+        <item>wallpaper_19</item>
+        <item>wallpaper_20</item>
+		<item>wallpaper_21</item>
+		<item>wallpaper_22</item>
+		<item>wallpaper_23</item>
+		<item>wallpaper_24</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -81,6 +89,14 @@
 		<item>.::.</item>
 		<item>.::.</item>
         <item>.::.</item>
+        <item>.::.</item>
+        <item>.::.</item>
+        <item>.::.</item>
+		<item>.::.</item>
+		<item>.::.</item>
+		<item>.::.</item>
+		<item>.::.</item>
+		<item>.::.</item>
         <item>.::.</item>
         <item>.::.</item>
         <item>.::.</item>
